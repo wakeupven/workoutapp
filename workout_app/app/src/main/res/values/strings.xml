@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Workout App</string>
+    <string name="home">Главная</string>
+    <string name="exercises">Упражнения</string>
+    <string name="workouts">Тренировки</string>
+    <string name="schedule">Расписание</string>
+    <string name="profile">Профиль</string>
+    <string name="create_workout">Создать тренировку</string>
+    <string name="exercise_name">Название упражнения</string>
+    <string name="sets">Подходы</string>
+    <string name="reps">Повторений</string>
+    <string name="difficulty">Сложность</string>
+    <string name="easy">Легко</string>
+    <string name="medium">Средне</string>
+    <string name="hard">Сложно</string>
+    <string name="target_muscles">Целевые мышцы</string>
+    <string name="equipment">Оборудование</string>
+    <string name="description">Описание</string>
+    <string name="media">Медиа</string>
+    <string name="video">Видео</string>
+    <string name="image">Изображение</string>
+    <string name="monday">Понедельник</string>
+    <string name="tuesday">Вторник</string>
+    <string name="wednesday">Среда</string>
+    <string name="thursday">Четверг</string>
+    <string name="friday">Пятница</string>
+    <string name="saturday">Суббота</string>
+    <string name="sunday">Воскресенье</string>
+</resources>
